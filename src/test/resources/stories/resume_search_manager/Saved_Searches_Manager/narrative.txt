@@ -1,0 +1,3 @@
+Saved Searches Manager
+As a employer
+I want to be able to create new resume search in order to use that later

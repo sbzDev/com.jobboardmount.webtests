@@ -1,0 +1,5 @@
+Resume Search Manager
+As a employer
+I want to be able to search resume profiles using keyword search by selected fields and resume files uploaded,
+search by zip code radius and select categories or locations.
+Also I want to be able to save resumes, save searches and create resume agents.
